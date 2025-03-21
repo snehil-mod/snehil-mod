@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Snehil Singh!<br>🔍 Exploring AI & ML, one project at a time.<br>🛠 Currently learning and building in medical imaging & object detection.<br>📊 Interested in Machine Learning, Deep Learning & Computer Vision.<br>📫 Reach me at snehil.singh5151@gmail.com.
+👋 Hi, I'm Snehil Singh!<br>🔍 Exploring AI & ML, one project at a time.<br>🛠 Currently learning and building in medical imaging & object detection.<br>📊 Interested in Machine Learning, Deep Learning & Computer Vision.<br>📂 Check out my projects and let's connect!
 
 
 ## 🌐 Socials:
